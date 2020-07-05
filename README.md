@@ -6,7 +6,7 @@ pkg install git
 
 git clone https://github.com/TheAngga/privasi
 
-cd lowercase
+cd privasi
 
 pip2 install requests
 
