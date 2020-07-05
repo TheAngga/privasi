@@ -1,3 +1,5 @@
+#DIVIATOR TEAM
+
 pkg update && pkg upgrade
 
 pkg install python2
@@ -13,3 +15,6 @@ pip2 install requests
 pip2 install mechanize
 
 python2 priv.py
+
+username:angga
+paswoord:gans
