@@ -10,4 +10,4 @@ git clone https://github.com/TheAngga/privasi
 
 cd vip
 
-python2 vip.py
+python2 priv.py
