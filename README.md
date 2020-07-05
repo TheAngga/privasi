@@ -1,13 +1,15 @@
-# privasi
-
-pkg update && pkg upgrade
-
-pkg install git
+pkg update && pkg ugrade
 
 pkg install python2
 
+pkg install git
+
 git clone https://github.com/TheAngga/privasi
 
-cd vip
+cd lowercase
+
+pip2 install requests
+
+pip2 install mechanize
 
 python2 priv.py
