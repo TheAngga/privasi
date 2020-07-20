@@ -6,15 +6,8 @@ pkg install python2
 
 pkg install git
 
-git clone https://github.com/TheAngga/privasi
+git clone https://github.com/TheAngga/dvr
 
-cd privasi
+cd dvr
 
-pip2 install requests
-
-pip2 install mechanize
-
-python2 priv.py
-
-username:angga
-paswoord:gans
+python2 dvr.py
